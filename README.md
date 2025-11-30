@@ -16,18 +16,6 @@ Resources ordered by topic
 - DeepGlobe: High-resolution satellite imagery with various annotation types. https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset
 - EuroSAT: RGB and multi-band images for land use classification. https://github.com/phelber/EuroSAT
 
-# Segmentation
-
-## Models / libraries
-
-## Datasets
-
-# Image registration
-
-## Models / libraries
-
-## Datasets
-
 # Super resolution
 
 ## Models / libraries
@@ -49,7 +37,15 @@ The following list of model is not specifically applied to remote sensing images
 - DiffIR: https://github.com/Zj-BinXia/DiffIR
 - SwinIR: https://github.com/JingyunLiang/SwinIR
 
-# Datasets
+# Biomass
+
+## Datasets
+- ESA Biomass Climate Change Initiative (Biomass_cci): Global datasets of forest above-ground biomass for the years 2007, 2010, 2015, 2016, 2017, 2018, 2019, 2020, 2021 and 2022, v6.0 https://catalogue.ceda.ac.uk/uuid/95913ffb6467447ca72c4e9d8cf30501/
+- NASA Global Ecosystem Dynamics Investigation (GEDI) Datasets https://www.earthdata.nasa.gov/data/projects/gedi/data-access-tools#toc-global-ecosystem%20dynamics%20investigation-gedi-datasets
+- BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series https://huggingface.co/datasets/nascetti-a/BioMassters
+- JPL Global Biomass Dataset https://earthdata.nasa.gov/maap-biomass/
+
+# Others
 
 ## General Purpose
 - BigEarthNet: Multi-label dataset with Sentinel-2 imagery. https://paperswithcode.com/dataset/bigearthnet
@@ -57,6 +53,17 @@ The following list of model is not specifically applied to remote sensing images
 - Land Use and Land cover: https://www.usgs.gov/data/chesapeake-bay-land-use-and-land-cover-lulc-database-2022-edition
 The database contains one-meter 13-class Land Cover (LC) and 54-class Land Use/Land Cover (LULC) for all counties within or adjacent to the Chesapeake Bay
 
+# Segmentation
+
+## Models / libraries
+
+## Datasets
+
+# Image registration
+
+## Models / libraries
+
+## Datasets
 
 ## Open Access Resources
 
